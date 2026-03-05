@@ -1,0 +1,505 @@
+{
+  "count": 50,
+  "listings": [
+    {
+      "title": "4 bedroom Flat",
+      "price": "1250000",
+      "address": "Flat 10H Hyde Park Mansions, Cabbell Street, Marylebone, London, NW1 5BG",
+      "bedrooms": 4,
+      "bathrooms": null,
+      "property_type": "Flat",
+      "listing_url": "https://www.rightmove.co.uk/properties/172753559",
+      "date_scraped": "2026-03-05T14:27:17.327973+00:00"
+    },
+    {
+      "title": "5 bedroom Apartment",
+      "price": "60000000",
+      "address": "One Hyde Park, Knightsbridge, London, SW1X",
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "property_type": "Apartment",
+      "listing_url": "https://www.rightmove.co.uk/properties/148711631",
+      "date_scraped": "2026-03-05T14:27:17.327986+00:00"
+    },
+    {
+      "title": "6 bedroom House",
+      "price": "55000000",
+      "address": "Thurloe Place, Knightsbridge, London, SW7, United Kingdom",
+      "bedrooms": 6,
+      "bathrooms": 7,
+      "property_type": "House",
+      "listing_url": "https://www.rightmove.co.uk/properties/168925889",
+      "date_scraped": "2026-03-05T14:27:17.327991+00:00"
+    },
+    {
+      "title": "10 bedroom House",
+      "price": "49950000",
+      "address": "Avenue Road, St John's Wood, London, NW8, United Kingdom",
+      "bedrooms": 10,
+      "bathrooms": 8,
+      "property_type": "House",
+      "listing_url": "https://www.rightmove.co.uk/properties/155320229",
+      "date_scraped": "2026-03-05T14:27:17.327995+00:00"
+    },
+    {
+      "title": "7 bedroom End of Terrace",
+      "price": "49500000",
+      "address": "Balfour Place, Mayfair, London, W1K",
+      "bedrooms": 7,
+      "bathrooms": 8,
+      "property_type": "End of Terrace",
+      "listing_url": "https://www.rightmove.co.uk/properties/171185315",
+      "date_scraped": "2026-03-05T14:27:17.327998+00:00"
+    },
+    {
+      "title": "6 bedroom House",
+      "price": "47000000",
+      "address": "Whistler Square, Chelsea Barracks, London, SW1W, United Kingdom",
+      "bedrooms": 6,
+      "bathrooms": 6,
+      "property_type": "House",
+      "listing_url": "https://www.rightmove.co.uk/properties/152205953",
+      "date_scraped": "2026-03-05T14:27:17.328001+00:00"
+    },
+    {
+      "title": "7 bedroom Town House",
+      "price": "47000000",
+      "address": "Whistler Square, London, SW1W",
+      "bedrooms": 7,
+      "bathrooms": 8,
+      "property_type": "Town House",
+      "listing_url": "https://www.rightmove.co.uk/properties/152236991",
+      "date_scraped": "2026-03-05T14:27:17.328004+00:00"
+    },
+    {
+      "title": "5 bedroom Apartment",
+      "price": "46000000",
+      "address": "One Hyde Park, Knightsbridge, London, SW1X",
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "property_type": "Apartment",
+      "listing_url": "https://www.rightmove.co.uk/properties/158528285",
+      "date_scraped": "2026-03-05T14:27:17.328007+00:00"
+    },
+    {
+      "title": "7 bedroom House",
+      "price": "44000000",
+      "address": "Wilton Crescent, Belgravia, London, SW1X, United Kingdom",
+      "bedrooms": 7,
+      "bathrooms": 7,
+      "property_type": "House",
+      "listing_url": "https://www.rightmove.co.uk/properties/157525997",
+      "date_scraped": "2026-03-05T14:27:17.328009+00:00"
+    },
+    {
+      "title": "6 bedroom Town House",
+      "price": "42500000",
+      "address": "Upper Brook Street, London, W1K",
+      "bedrooms": 6,
+      "bathrooms": 7,
+      "property_type": "Town House",
+      "listing_url": "https://www.rightmove.co.uk/properties/171790859",
+      "date_scraped": "2026-03-05T14:27:17.328012+00:00"
+    },
+    {
+      "title": "6 bedroom Terraced",
+      "price": "42500000",
+      "address": "Upper Brook Street, London, W1K",
+      "bedrooms": 6,
+      "bathrooms": 7,
+      "property_type": "Terraced",
+      "listing_url": "https://www.rightmove.co.uk/properties/171587372",
+      "date_scraped": "2026-03-05T14:27:17.328015+00:00"
+    },
+    {
+      "title": "5 bedroom Apartment",
+      "price": "42000000",
+      "address": "Bayswater Road, London, W2",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "property_type": "Apartment",
+      "listing_url": "https://www.rightmove.co.uk/properties/162929390",
+      "date_scraped": "2026-03-05T14:27:17.328017+00:00"
+    },
+    {
+      "title": "4 bedroom Flat",
+      "price": "39500000",
+      "address": "Ashburton Place, Mayfair",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "property_type": "Flat",
+      "listing_url": "https://www.rightmove.co.uk/properties/168530276",
+      "date_scraped": "2026-03-05T14:27:17.328019+00:00"
+    },
+    {
+      "title": "4 bedroom Flat",
+      "price": "39500000",
+      "address": "1 Ashburton Place, Mayfair, London, W1J",
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "property_type": "Flat",
+      "listing_url": "https://www.rightmove.co.uk/properties/168516473",
+      "date_scraped": "2026-03-05T14:27:17.328022+00:00"
+    },
+    {
+      "title": "6 bedroom Town House",
+      "price": "37950000",
+      "address": "Eaton Place, Belgravia, SW1X",
+      "bedrooms": 6,
+      "bathrooms": 9,
+      "property_type": "Town House",
+      "listing_url": "https://www.rightmove.co.uk/properties/171004574",
+      "date_scraped": "2026-03-05T14:27:17.328025+00:00"
+    },
+    {
+      "title": "5 bedroom Apartment",
+      "price": "36000000",
+      "address": "Grosvenor Square, London, W1K",
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "property_type": "Apartment",
+      "listing_url": "https://www.rightmove.co.uk/properties/170208926",
+      "date_scraped": "2026-03-05T14:27:17.328027+00:00"
+    },
+    {
+      "title": "0 bedroom Terraced",
+      "price": "35000000",
+      "address": "South Audley Street, London, W1K",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "property_type": "Terraced",
+      "listing_url": "https://www.rightmove.co.uk/properties/169342700",
+      "date_scraped": "2026-03-05T14:27:17.328030+00:00"
+    },
+    {
+      "title": "4 bedroom Apartment",
+      "price": "35000000",
+      "address": "One Hyde Park, London SW1X",
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "property_type": "Apartment",
+      "listing_url": "https://www.rightmove.co.uk/properties/87604734",
+      "date_scraped": "2026-03-05T14:27:17.328033+00:00"
+    },
+    {
+      "title": "7 bedroom Detached",
+      "price": "34995000",
+      "address": "Belgrave Square, London, SW1X",
+      "bedrooms": 7,
+      "bathrooms": 9,
+      "property_type": "Detached",
+      "listing_url": "https://www.rightmove.co.uk/properties/87665097",
+      "date_scraped": "2026-03-05T14:27:17.328035+00:00"
+    },
+    {
+      "title": "4 bedroom Penthouse",
+      "price": "32500000",
+      "address": "Holland Park Gate, Penthouse, 257 Kensington High St, London, W8",
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "property_type": "Penthouse",
+      "listing_url": "https://www.rightmove.co.uk/properties/169069013",
+      "date_scraped": "2026-03-05T14:27:17.328038+00:00"
+    },
+    {
+      "title": "4 bedroom Penthouse",
+      "price": "32500000",
+      "address": "Holland Park Gate, 261 Kensington High Street, London, W8 6NA",
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "property_type": "Penthouse",
+      "listing_url": "https://www.rightmove.co.uk/properties/165076217",
+      "date_scraped": "2026-03-05T14:27:17.328041+00:00"
+    },
+    {
+      "title": "40 bedroom Block of Apartments",
+      "price": "32000000",
+      "address": "Covent Garden and Soho Residential Portfolio",
+      "bedrooms": 40,
+      "bathrooms": 38,
+      "property_type": "Block of Apartments",
+      "listing_url": "https://www.rightmove.co.uk/properties/168321101",
+      "date_scraped": "2026-03-05T14:27:17.328044+00:00"
+    },
+    {
+      "title": "10 bedroom Detached",
+      "price": "30000000",
+      "address": "Avenue Road, London, NW8",
+      "bedrooms": 10,
+      "bathrooms": 10,
+      "property_type": "Detached",
+      "listing_url": "https://www.rightmove.co.uk/properties/172006166",
+      "date_scraped": "2026-03-05T14:27:17.328047+00:00"
+    },
+    {
+      "title": "4 bedroom Apartment",
+      "price": "30000000",
+      "address": "One Hyde Park, Knightsbridge, United Kingdom",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "property_type": "Apartment",
+      "listing_url": "https://www.rightmove.co.uk/properties/160407086",
+      "date_scraped": "2026-03-05T14:27:17.328049+00:00"
+    },
+    {
+      "title": "7 bedroom House",
+      "price": "30000000",
+      "address": "Tregunter Road, Chelsea, London, SW10, United Kingdom",
+      "bedrooms": 7,
+      "bathrooms": 7,
+      "property_type": "House",
+      "listing_url": "https://www.rightmove.co.uk/properties/152997359",
+      "date_scraped": "2026-03-05T14:27:17.328052+00:00"
+    },
+    {
+      "title": "2 bedroom Apartment",
+      "price": "550000",
+      "address": "Mount Avenue, W5",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Apartment",
+      "listing_url": "https://www.rightmove.co.uk/properties/87526413",
+      "date_scraped": "2026-03-05T14:27:17.379402+00:00"
+    },
+    {
+      "title": "7 bedroom Semi-Detached",
+      "price": "30000000",
+      "address": "Tregunter Road, Chelsea, London",
+      "bedrooms": 7,
+      "bathrooms": 7,
+      "property_type": "Semi-Detached",
+      "listing_url": "https://www.rightmove.co.uk/properties/172554509",
+      "date_scraped": "2026-03-05T14:27:17.379423+00:00"
+    },
+    {
+      "title": "0 bedroom Plot",
+      "price": "29950000",
+      "address": "Piccadilly, Mayfair, London, W1J",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "property_type": "Plot",
+      "listing_url": "https://www.rightmove.co.uk/properties/168396311",
+      "date_scraped": "2026-03-05T14:27:17.379427+00:00"
+    },
+    {
+      "title": "6 bedroom House",
+      "price": "29950000",
+      "address": "Piccadilly, Mayfair",
+      "bedrooms": 6,
+      "bathrooms": 6,
+      "property_type": "House",
+      "listing_url": "https://www.rightmove.co.uk/properties/141659681",
+      "date_scraped": "2026-03-05T14:27:17.379432+00:00"
+    },
+    {
+      "title": "4 bedroom Flat",
+      "price": "28500000",
+      "address": "One Hyde Park, Knightsbridge, London, SW1X, United Kingdom",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "property_type": "Flat",
+      "listing_url": "https://www.rightmove.co.uk/properties/156795014",
+      "date_scraped": "2026-03-05T14:27:17.379436+00:00"
+    },
+    {
+      "title": "6 bedroom Flat",
+      "price": "28000000",
+      "address": "Mulberry Square, Belgravia, London",
+      "bedrooms": 6,
+      "bathrooms": 6,
+      "property_type": "Flat",
+      "listing_url": "https://www.rightmove.co.uk/properties/171660851",
+      "date_scraped": "2026-03-05T14:27:17.379439+00:00"
+    },
+    {
+      "title": "6 bedroom Apartment",
+      "price": "28000000",
+      "address": "Mulberry Square, London, SW1W",
+      "bedrooms": 6,
+      "bathrooms": 6,
+      "property_type": "Apartment",
+      "listing_url": "https://www.rightmove.co.uk/properties/171656438",
+      "date_scraped": "2026-03-05T14:27:17.379442+00:00"
+    },
+    {
+      "title": "10 bedroom House",
+      "price": "27500000",
+      "address": "Holland Park, London, W11",
+      "bedrooms": 10,
+      "bathrooms": 7,
+      "property_type": "House",
+      "listing_url": "https://www.rightmove.co.uk/properties/161075213",
+      "date_scraped": "2026-03-05T14:27:17.379445+00:00"
+    },
+    {
+      "title": "4 bedroom Apartment",
+      "price": "27000000",
+      "address": "Princes Gate, Knightsbridge, SW7",
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "property_type": "Apartment",
+      "listing_url": "https://www.rightmove.co.uk/properties/170232161",
+      "date_scraped": "2026-03-05T14:27:17.379448+00:00"
+    },
+    {
+      "title": "4 bedroom Flat",
+      "price": "27000000",
+      "address": "Princes Gate, Knightsbridge, London, SW7",
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "property_type": "Flat",
+      "listing_url": "https://www.rightmove.co.uk/properties/170440250",
+      "date_scraped": "2026-03-05T14:27:17.379451+00:00"
+    },
+    {
+      "title": "4 bedroom Apartment",
+      "price": "25500000",
+      "address": "60 Curzon, 60 Curzon Street, Maayfair, London, W1J",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "property_type": "Apartment",
+      "listing_url": "https://www.rightmove.co.uk/properties/171656723",
+      "date_scraped": "2026-03-05T14:27:17.379454+00:00"
+    },
+    {
+      "title": "6 bedroom House",
+      "price": "25000000",
+      "address": "Chester Square, London, SW1W",
+      "bedrooms": 6,
+      "bathrooms": 7,
+      "property_type": "House",
+      "listing_url": "https://www.rightmove.co.uk/properties/160716725",
+      "date_scraped": "2026-03-05T14:27:17.379457+00:00"
+    },
+    {
+      "title": "6 bedroom Town House",
+      "price": "25000000",
+      "address": "Chester Square, Belgravia, London, SW1W, United Kingdom",
+      "bedrooms": 6,
+      "bathrooms": 7,
+      "property_type": "Town House",
+      "listing_url": "https://www.rightmove.co.uk/properties/152041028",
+      "date_scraped": "2026-03-05T14:27:17.379461+00:00"
+    },
+    {
+      "title": "10 bedroom Town House",
+      "price": "25000000",
+      "address": "Lowndes Square, Belgravia, SW1X",
+      "bedrooms": 10,
+      "bathrooms": 10,
+      "property_type": "Town House",
+      "listing_url": "https://www.rightmove.co.uk/properties/141476324",
+      "date_scraped": "2026-03-05T14:27:17.379464+00:00"
+    },
+    {
+      "title": "10 bedroom Terraced",
+      "price": "25000000",
+      "address": "Lowndes Square, London, SW1X",
+      "bedrooms": 10,
+      "bathrooms": 9,
+      "property_type": "Terraced",
+      "listing_url": "https://www.rightmove.co.uk/properties/133822685",
+      "date_scraped": "2026-03-05T14:27:17.379466+00:00"
+    },
+    {
+      "title": "3 bedroom Penthouse",
+      "price": "25000000",
+      "address": "Marylebone High Street, London, W1U",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "property_type": "Penthouse",
+      "listing_url": "https://www.rightmove.co.uk/properties/170112602",
+      "date_scraped": "2026-03-05T14:27:17.379470+00:00"
+    },
+    {
+      "title": "8 bedroom Block of Apartments",
+      "price": "25000000",
+      "address": "Knights House, Cheval Place, Knightsbridge, SW7, United Kingdom",
+      "bedrooms": 8,
+      "bathrooms": 9,
+      "property_type": "Block of Apartments",
+      "listing_url": "https://www.rightmove.co.uk/properties/157014905",
+      "date_scraped": "2026-03-05T14:27:17.379476+00:00"
+    },
+    {
+      "title": "6 bedroom Terraced",
+      "price": "25000000",
+      "address": "Cornwall Terrace, Regent's Park",
+      "bedrooms": 6,
+      "bathrooms": 6,
+      "property_type": "Terraced",
+      "listing_url": "https://www.rightmove.co.uk/properties/47838357",
+      "date_scraped": "2026-03-05T14:27:17.379479+00:00"
+    },
+    {
+      "title": "8 bedroom Detached",
+      "price": "24950000",
+      "address": "St. John's Wood, London, NW8",
+      "bedrooms": 8,
+      "bathrooms": 10,
+      "property_type": "Detached",
+      "listing_url": "https://www.rightmove.co.uk/properties/135107819",
+      "date_scraped": "2026-03-05T14:27:17.379483+00:00"
+    },
+    {
+      "title": "4 bedroom Apartment",
+      "price": "24950000",
+      "address": "60 Curzon, Mayfair, London, W1J 8PG",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "property_type": "Apartment",
+      "listing_url": "https://www.rightmove.co.uk/properties/169008476",
+      "date_scraped": "2026-03-05T14:27:17.379488+00:00"
+    },
+    {
+      "title": "4 bedroom Apartment",
+      "price": "24950000",
+      "address": "60 Curzon, Mayfair, London, W1J 8PG",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "property_type": "Apartment",
+      "listing_url": "https://www.rightmove.co.uk/properties/169008473",
+      "date_scraped": "2026-03-05T14:27:17.379491+00:00"
+    },
+    {
+      "title": "9 bedroom Detached",
+      "price": "24500000",
+      "address": "Hamilton Terrace, St John's Wood, London, NW8",
+      "bedrooms": 9,
+      "bathrooms": 8,
+      "property_type": "Detached",
+      "listing_url": "https://www.rightmove.co.uk/properties/166870283",
+      "date_scraped": "2026-03-05T14:27:17.379494+00:00"
+    },
+    {
+      "title": "12 bedroom House",
+      "price": "24000000",
+      "address": "Queen's Gate, South Kensington, London, SW7",
+      "bedrooms": 12,
+      "bathrooms": 12,
+      "property_type": "House",
+      "listing_url": "https://www.rightmove.co.uk/properties/172438859",
+      "date_scraped": "2026-03-05T14:27:17.379497+00:00"
+    },
+    {
+      "title": "5 bedroom Apartment",
+      "price": "24000000",
+      "address": "The Clock Tower Apartment, The Whiteley, Queensway, London, W2",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "property_type": "Apartment",
+      "listing_url": "https://www.rightmove.co.uk/properties/164628374",
+      "date_scraped": "2026-03-05T14:27:17.379501+00:00"
+    },
+    {
+      "title": "5 bedroom Apartment",
+      "price": "24000000",
+      "address": "'The Astor', Millbank SW1",
+      "bedrooms": 5,
+      "bathrooms": 6,
+      "property_type": "Apartment",
+      "listing_url": "https://www.rightmove.co.uk/properties/157474112",
+      "date_scraped": "2026-03-05T14:27:17.379504+00:00"
+    }
+  ]
+}
