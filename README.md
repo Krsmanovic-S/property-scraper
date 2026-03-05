@@ -4,7 +4,10 @@ A polite, modular Python scraper for **Rightmove property-for-sale** listings.
 
 Extracts title, price, address, bedrooms, bathrooms, property type, and listing URL, then saves results to **CSV**, **JSON**, and **SQLite** simultaneously.
 
+<img width="1030" height="604" alt="rightmove-scrapper" src="https://github.com/user-attachments/assets/3e5f5f3d-ff7e-4893-84f8-f2ce7525996e" />
+
 ---
+
 
 ## Project layout
 
